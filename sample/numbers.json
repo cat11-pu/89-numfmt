@@ -1,0 +1,7 @@
+{
+  "bad_precision_code": "E_BAD_PRECISION",
+  "precision": 2,
+  "scale": 1,
+  "values": [1.25, 2.5, 3.125, 10],
+  "unit": "ms"
+}
